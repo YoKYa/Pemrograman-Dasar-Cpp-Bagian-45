@@ -1,0 +1,6 @@
+Sebuah Text Pengujian
+No  Nama    NIM
+1   Yogi    013
+2   Eka     012
+3   Pras    011
+4   Tiya    001
